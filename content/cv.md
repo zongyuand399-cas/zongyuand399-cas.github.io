@@ -1,10 +1,10 @@
 ## Education
 
-**The University of Example**, PhD in Natural Science, *2025 - Present*
+**The University of Nottingham Ningbo China**, Msc in  Finance and Investment (Economics, Money and Finance) , *2024 - 2025*
 - Research focus: Mathematical Principles of Natural Philosophy
 - Supervisor: Prof. Advisor One and Dr. Advisor Two
 
-**The University of Example**, BSc in Natural Science, *2021 - 2025*
+**Henan University**, BSc in Economics(Major in Finance), *2019 - 2024*
 - Graduated with First Class Honours
 
 ## Experience

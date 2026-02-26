@@ -11,9 +11,7 @@ institution = "University of Nottingham Ningbo China"
 avatar = "/bio.jpg"
 
 [social]
-# Contact information (leave blank or delete to hide)
-
-email = "dzy3991005.com"
+email = "dzy399@1005.com"
 location = "Tianjin, China"
 location_url = "https://maps.google.com"
 location_details = [
@@ -26,22 +24,16 @@ github = "https://github.com"
 linkedin = "https://www.linkedin.com/in/zongyuan-castiel-deng/"
 
 [features]
-# Show a like button on the about page
 enable_likes = true
-
-# Display all subpages on a single page
 enable_one_page_mode = false
 
 [i18n]
 enabled = true
 locales = ["zh", "en"]
 default_locale = "en"
-# "auto" means the locale will be determined by the browser's language setting, "fixed" means the locale will be fixed to the default locale (but can be switched still, if you want to disable, set "enable=false")
 mode = "auto"
 fixed_locale = "en"
-# If true, PRISM will remember user's language preference in browser's localStorage
 persist = true
-# Show a language switcher on the top right corner
 switcher = true
 
 [i18n.labels]
@@ -55,14 +47,31 @@ target = "about"
 href = "/"
 
 [[navigation]]
-title = "Research"       
-type = "page"              
-target = "research"       
-href = "/research"        
-
+title = "Research"
+type = "page"
+target = "research"
+href = "/research"
 
 [[navigation]]
-title = "CV"         
-type = "external"     
-target = "_blank"    
-href = "/cv_zongyuan_deng.pdf"  
+title = "Teaching"
+type = "page"
+target = "teaching"
+href = "/teaching"
+
+[[navigation]]
+title = "Awards"
+type = "page"
+target = "awards"
+href = "/awards"
+
+[[navigation]]
+title = "Services"
+type = "page"
+target = "services"
+href = "/services"
+
+[[navigation]]
+title = "CV"
+type = "external"
+target = "_blank"
+href = "/cv_zongyuan_deng.pdf"

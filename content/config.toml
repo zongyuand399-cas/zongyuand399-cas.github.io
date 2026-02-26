@@ -79,7 +79,7 @@ target = "services"
 href = "/services"
 
 [[navigation]]
-title = "CV"
-type = "page"
-target = "cv"
-href = "/cv"
+title = "CV"         
+type = "external"     
+target = "_blank"    
+href = "/cv_zongyuan_deng.pdf"  

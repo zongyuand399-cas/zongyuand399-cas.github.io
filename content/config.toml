@@ -1,29 +1,29 @@
 [site]
 title = "Zongyuan Deng"
-description = "Recent Master’s graduate, University of Nottingham Ningbo China"
+description = "Recent Master’s Graduate, University of Nottingham Ningbo China"
 favicon = "/favicon.svg"
 last_updated = "Feb 26, 2026"
 
 [author]
-name = "Jiale Liu"
-title = "PhD Student"
-institution = "University of Example"
+name = "Zongyuan Deng"
+title = "Recent Master’s Graduate"
+institution = "University of Nottingham Ningbo China"
 avatar = "/bio.jpg"
 
 [social]
 # Contact information (leave blank or delete to hide)
 
-email = "john.doe@example.com"
-location = "City, Country"
+email = "dzy3991005.com"
+location = "Tianjin, China"
 location_url = "https://maps.google.com"
 location_details = [
   "Room 123, Science Building,",
   "University Avenue, City, Country"
 ]
 google_scholar = "https://scholar.google.com"
-orcid = "https://orcid.org"
+orcid = "https://orcid.org/0009-0009-4300-5358"
 github = "https://github.com"
-linkedin = "https://linkedin.com"
+linkedin = "https://www.linkedin.com/in/zongyuan-castiel-deng/"
 
 [features]
 # Show a like button on the about page
